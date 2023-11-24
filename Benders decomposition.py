@@ -7,6 +7,8 @@ Created on Sun Apr  2 17:21:33 2023
 from gurobipy import *
 import numpy as np
 
+
+
 # Parameters
 Ay = np.array([[800.,   0.,   0.,  -1.,   0.,   0.],
        [  0., 800.,   0.,   0.,  -1.,   0.],
